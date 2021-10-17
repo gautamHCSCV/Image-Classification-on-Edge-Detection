@@ -3,8 +3,8 @@ Classification of images based on edges only. The images are converted to their 
 
 **Sample Images**
 
-![image](https://user-images.githubusercontent.com/65457437/137621363-725bcd20-9fc4-4f1f-9c60-3e4bf19daece.png)                  ![image](https://user-images.githubusercontent.com/65457437/137621384-30f13cfd-6de8-47dc-a114-9abf6cee22bb.png)
 
+![image](https://user-images.githubusercontent.com/65457437/137621498-8d913a18-1ae5-4c8e-91e4-b75f1cbc7e24.png)
 
 
 
