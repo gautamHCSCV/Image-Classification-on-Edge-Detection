@@ -3,8 +3,16 @@ Classification of images based on edges only. The images are converted to their 
 
 **Sample Images**
 
+**Original**
+![image](https://user-images.githubusercontent.com/65457437/144373938-3299b257-193d-46be-9057-af106b8d21a5.png)
 
-![image](https://user-images.githubusercontent.com/65457437/137621498-8d913a18-1ae5-4c8e-91e4-b75f1cbc7e24.png)
+**Edge Detection**
+![image](https://user-images.githubusercontent.com/65457437/144374967-ff800beb-baf6-49ae-8dd4-bbf216fbc366.png)
+**Original**
+![image](https://user-images.githubusercontent.com/65457437/144375425-d77eb74e-eee9-4062-a75d-905f5f43fb38.png)
+**Edge Detection**
+![image](https://user-images.githubusercontent.com/65457437/144375400-eb194024-af2c-4c95-8b8e-28365aeb2950.png)  
+
 
 
 Usually, we can easily identify objects in images where only a line drawing is given. Lines correspond to edges or sudden changes in images. Intuitively, most semantic and shape information from image can be encoded in the edges. It is more complicated presentation than original images. So, it can be very useful to extract edges from image, to use it for the recognition. The ideal result, is the drawing of an artist. But artist uses object-level knowledge. But I will mention how the machine learning algorithm can be constructed for edge detection. We all can see the edges as points of rapid change in image intensity. Such points can be identified by considering first derivative of image intensity. Edges will correspond to local extrema of derivative.
