@@ -18,5 +18,10 @@ Test accuracy = 30.86% </br>
 1. 50 epochs
 2. Learing rate initialisation = 3* 10^-3 </br>
 
-Train accuracy = 9.8%</br>
-Test accuracy = 9.8%
+Train accuracy = 10.22%</br>
+Test accuracy = 10.69%
+
+![image](https://user-images.githubusercontent.com/65457437/144367483-4f574916-bfc9-45e1-b89d-a196f8de18a6.png)
+
+![image](https://user-images.githubusercontent.com/65457437/144367496-958e33de-70ad-4ebf-aa0e-3edf126b3768.png)
+
