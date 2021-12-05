@@ -3,9 +3,9 @@ Used ResNet-18 with more residual blocks</br>
 ![image](https://user-images.githubusercontent.com/65457437/144732223-b2b6d6c7-d0a6-46c9-82eb-a1e23db52f31.png)
 </br>
 
-Training Images Augmentation:</br?
-train_datagen = ImageDataGenerator(
-        rescale=1./255, rotation_range=60, width_shift_range=2.0, height_shift_range=2.0,
+Training Images Augmentation:</br>
+train_datagen = ImageDataGenerator(</br>
+        rescale=1./255, rotation_range=60, width_shift_range=2.0, height_shift_range=2.0,</br>
         shear_range=0.2,
         zoom_range=0.2,
         horizontal_flip=True)
