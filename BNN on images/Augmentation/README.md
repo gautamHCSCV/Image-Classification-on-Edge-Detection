@@ -10,7 +10,7 @@ train_datagen = ImageDataGenerator( </br>
         horizontal_flip=True)
 
  </br> </br>
-**RESULTS**
+**RESULTS** </br>
 Train accuracy = 36.14% </br>
 Test accuracy = 35.68%  </br>
 
