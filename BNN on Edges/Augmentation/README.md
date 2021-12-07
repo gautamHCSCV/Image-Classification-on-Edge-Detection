@@ -17,5 +17,8 @@ Train accuracy = 30.30% </br>
 Test accuracy = 29.24%  </br>
 
 
+![image](https://user-images.githubusercontent.com/65457437/144982269-0e769595-2d94-4776-98a7-095f48c63aa6.png)
+
+
 ![image](https://user-images.githubusercontent.com/65457437/144982054-f0c869a7-a246-4b3d-902d-920f5e1e5517.png)
 
